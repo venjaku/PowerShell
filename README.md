@@ -5,7 +5,7 @@ According to Wikipedia "**PowerShell is a task automation and configuration mana
 
 Read More in [Wikipedia](https://en.wikipedia.org/wiki/PowerShell/).
 
-- Command to download PowerShell (PS Champ) module in Linux <code> git clone https://github.com/vvrofficial/PowerShell.git </code>
+- Command to download this module in Linux <code> git clone https://github.com/vvrofficial/PowerShell.git </code>
 - Link to download PowerShell (PS Champ) module in Windows  https://github.com/vvrofficial/PowerShell/archive/master.zip
 
 ## Index of PowerShell Scripts
