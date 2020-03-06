@@ -1,5 +1,5 @@
 # PowerShell (PS Champ) - Nothing to Something
-PSChamp (PowerShell) is a repositary for beginners who are interested in PowerShell Scripting. This module is preferred for absolute beginners.
+This repositary contains Basic, Intermediate & Advanced PowerShell Scripts. I have indexed them one by one for your convenience.
 
 According to Wikipedia "**PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language.**"
 
