@@ -41,3 +41,4 @@ Write-Host "[+] System Name: " $computerSystem.Name
 "[+] Last Reboot: " + $computerOS.LastBootUpTime
 
 "`n"
+Read-Host -Prompt "Press Enter to exit"
