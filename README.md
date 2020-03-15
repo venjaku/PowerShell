@@ -13,6 +13,6 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/PowerShell/).
 2. [Printing User Input & Date](https://github.com/vvrofficial/PowerShell/blob/master/PrintingInputDate.ps1/)
 3. [IPConfig 2 File](https://github.com/vvrofficial/PowerShell/blob/master/IPConfig2File.ps1/)
 4. [Basic System Information/Enumeration](https://github.com/vvrofficial/PowerShell/blob/master/BasicSystemInformation.ps1/)
-5. [List of Installed Applications] (https://github.com/vvrofficial/PowerShell/blob/master/ListOfInstalledServices.ps1/)
+5. [List of Installed Applications](https://github.com/vvrofficial/PowerShell/blob/master/ListOfInstalledServices.ps1/)
 
 Published by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
